@@ -1,2 +1,2 @@
 # new readme file
-Pusing from linux git
+Pushing from linux git
